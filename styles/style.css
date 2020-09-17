@@ -115,8 +115,14 @@ body {
     height: 100%; }
     .bottom-card:nth-child(2) {
       margin-top: 1.2rem; }
+      @media (max-width: 768px) {
+        .bottom-card:nth-child(2) {
+          margin-top: 1rem; } }
     .bottom-card:nth-child(3) {
       margin-top: 2.4rem; }
+      @media (max-width: 768px) {
+        .bottom-card:nth-child(3) {
+          margin-top: 1rem; } }
     @media (max-width: 768px) {
       .bottom-card {
         margin: 0.5rem auto; }
