@@ -3,7 +3,7 @@
 ![Language count badge](https://img.shields.io/github/languages/count/GustavoMatsunaga/ArticleComponent)
 ![Code size badge](https://img.shields.io/github/languages/code-size/GustavoMatsunaga/ArticleComponent)
 
-:notebook_with_decorative_cover: In order to practice some technologies, I build this Social Plataform page .
+:notebook_with_decorative_cover: In order to practice some technologies, I build this Social platform page .
 </br>
 You can checkout the model here : <strong><a href="https://gustavomatsunaga.github.io/socialProof/">Social Proof</a></strong> :mag:
 
